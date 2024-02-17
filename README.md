@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dominiksakic
 - 👀 I’m interested in philosophy, sports, and anime
-- 🌱 I’m currently learning how to code with the CS50x
-- 💞️ I’m looking to collaborate on an
-- 📫 How to reach me linkedin
+- 🌱 I’m learning how to code at code chrysalis
+
 
 <!---
 dominiksakic/dominiksakic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
