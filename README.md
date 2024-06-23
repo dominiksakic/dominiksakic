@@ -16,7 +16,7 @@ Backend: NodeJS / ExpressJS / REST API / Ruby on Rails
 Database: PostgreSQL / MongoDB
 
 
-Currently, as a hobby I'm re-building an existing backend of my app in Go: https://poipoi.vercel.app/. I have built the app with 6 other people, where I worked as a Product Owner and Full-stack Engineer.
+Currently, I'm re-building an existing backend of my app in Go: https://poipoi.vercel.app/. I have built the app with 6 other people, where I worked as a Product Owner and Full-stack Engineer.
 
 
 
