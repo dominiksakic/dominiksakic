@@ -9,11 +9,14 @@ I enjoy working in teams in tandem with pair programming to build intuitive apps
 
 So far my experience has covered:
 
-Frontend: React / Next.js / TypeScript / Tailwind
+###Frontend: 
+React / Next.js / TypeScript / Tailwind
 
-Backend: NodeJS / ExpressJS / REST API / Ruby on Rails
+###Backend: 
+NodeJS / ExpressJS / REST API / Ruby on Rails
 
-Database: PostgreSQL / MongoDB
+###Database: 
+PostgreSQL / MongoDB
 
 
 Currently, I'm re-building an existing backend of my app in Go: https://poipoi.vercel.app/. I have built the app with 6 other people, where I worked as a Product Owner and Full-stack Engineer.
