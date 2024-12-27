@@ -1,10 +1,4 @@
-Frontend: React / Next.js / TypeScript / Tailwind
-
-Backend: NodeJS / ExpressJS / REST API / Ruby on Rails
-
-Database: PostgreSQL / MongoDB
-
-
+Hey!
 
 <!---
 dominiksakic/dominiksakic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
